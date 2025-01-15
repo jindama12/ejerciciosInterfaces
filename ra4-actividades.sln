@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ra4-actividades-1-menus", "ra4-actividades\ra4-actividades-1-menus.csproj", "{992FFC14-E10B-4BA7-AAC6-A5EF38BB1248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ra5-actividades", "ra5-actividades\ra5-actividades.csproj", "{2456D268-A9BC-411C-B9C2-89DC07131B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992FFC14-E10B-4BA7-AAC6-A5EF38BB1248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992FFC14-E10B-4BA7-AAC6-A5EF38BB1248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992FFC14-E10B-4BA7-AAC6-A5EF38BB1248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992FFC14-E10B-4BA7-AAC6-A5EF38BB1248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2456D268-A9BC-411C-B9C2-89DC07131B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2456D268-A9BC-411C-B9C2-89DC07131B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2456D268-A9BC-411C-B9C2-89DC07131B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2456D268-A9BC-411C-B9C2-89DC07131B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DC17464-92BF-41F3-954B-2128BC4708B6}
+	EndGlobalSection
+EndGlobal
